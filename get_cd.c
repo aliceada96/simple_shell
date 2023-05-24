@@ -1,3 +1,4 @@
+#include "s_shell.h"
 /**
  * cd_shell- changes directory
  * @arg: Arguments

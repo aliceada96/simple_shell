@@ -163,6 +163,7 @@ void var_help_alias(void);
 void var_help_general(void);
 
 /**change_dir**/
+void cd_dot(our_shell *arg);
 void cd_home(our_shell *arg);
 void cd_to(our_shell *arg);
 void cd_previous(our_shell *arg);
